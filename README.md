@@ -6,6 +6,11 @@ A runaway pet find helper app(open source)
 반려동물(개, 고양이) 실종 시 도움을 주는 안드로이드 어플리케이션
 
 
+Github Link : 뽀짝뽀짝(팀명)
+
+https://sigoss.github.io/hackathon2018/index.html
+
+
 ### project overview
 * 사용언어: java
 
